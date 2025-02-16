@@ -76,12 +76,4 @@ transparency, efficiency, and community collaboration by providing an
 accessible and real-time platform for community members to actively
 participate in shaping the policing landscape.
 
-> `Summery` Crime Detection.
-Authentication.
-Database Management.
-Police Rating System.
-Reporting Mechanism.
-This Police Feedback System serves as a transformative tool, fostering
-transparency, efficiency, and community collaboration by providing an
-accessible and real-time platform for community members to actively
-participate in shaping the policing landscape.
+
